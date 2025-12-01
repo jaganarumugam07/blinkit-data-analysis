@@ -1,6 +1,6 @@
-# 🛒 Blinkit Grocery Sales and KPI Analysis
+#  Blinkit Grocery Sales and KPI Analysis
 
-## 📝 Project Overview/Description
+##  Project Overview/Description
 
 This project delivers a comprehensive business intelligence solution for analyzing Blinkit's grocery sales performance, customer satisfaction, and inventory distribution. The analysis leverages a combination of **SQL** for robust data cleaning and analytical querying, and **Power BI** for dynamic, interactive visualization.
 
@@ -11,7 +11,7 @@ The primary objective is to transform raw sales data into actionable business in
 
 ---
 
-## 📈 Key Metrics and Insights
+##  Key Metrics and Insights
 
 The analysis focuses on the following core metrics and dimensional views, as documented in the `Business_Requirement.pdf`:
 
@@ -35,7 +35,7 @@ Key insights derived from this analysis are fully documented in the `Insights_Re
 
 ---
 
-## 🛠️ How to Run and Utilize the Project
+##  How to Run and Utilize the Project
 
 To replicate the analysis or interact with the dashboard, follow these steps:
 
@@ -55,7 +55,7 @@ To replicate the analysis or interact with the dashboard, follow these steps:
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 | File Name | Type | Description |
 | :--- | :--- | :--- |
@@ -70,7 +70,7 @@ To replicate the analysis or interact with the dashboard, follow these steps:
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to:
 
