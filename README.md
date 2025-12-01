@@ -1,4 +1,5 @@
 #  Blinkit Grocery Sales and KPI Analysis
+<img width="1274" height="693" alt="Screenshot 2025-12-01 175308" src="https://github.com/user-attachments/assets/04a48ec2-c827-4b07-96d8-36b5e0e64d42" />
 
 ##  Project Overview/Description
 
